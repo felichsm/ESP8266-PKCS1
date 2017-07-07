@@ -1,0 +1,9 @@
+Copyright 2017 Felix Mitterer
+felix.mitterer@technikum-wien.at
+
+
+This is a PKCS1 Implementation for the ESP8266 Microcontroller based on the GMP Library.
+It implements RSA Decryption and RSAEncryption.
+
+
+
