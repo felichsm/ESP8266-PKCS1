@@ -32,8 +32,8 @@ every thing else like:
 - SIGNATURE AND VERIFICATION PRIMITIVES
 - RSAES-OAEP
 - RSASSA-PSS
-- RSASSA
-- PKCS1-V1_5 
+- RSASSA-PKCS1-V1_5 
+
 (this should however not make any difficulties, since RSA and all conversion primitives are implemented)
 
 It was tested with a WeMos D1 mini ESP8266 module
