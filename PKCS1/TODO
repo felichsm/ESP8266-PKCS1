@@ -1,3 +1,3 @@
-Write Test Programm
+Implement OAEP (see https://www.emc.com/emc-plus/rsa-labs/standards-initiatives/pkcs-rsa-cryptography-standard.htm)
 
 Add a PEM implementation to the RSAkey Class, so that Keys in PEM format can be read
